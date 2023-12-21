@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "name":"mango",
+        "course":"BCA"
+    },
+    {
+        "id":"2",
+        "name":"orange",
+        "course":"cBSC"
+    },
+    {
+        "id":"3",
+        "name":"bnana",
+        "course":"BA"
+    }
+]
